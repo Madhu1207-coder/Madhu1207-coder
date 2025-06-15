@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/Profile.gif" alt="Madhumitha Boopathy Instagram Style" width="300" style="border-radius: 10px;" />
+      <img src="https://github.com/Madhu1207-coder/Madhu1207-coder/blob/main/profile.jpg" alt="Madhumitha Boopathy Instagram Style" width="300" style="border-radius: 10px;" />
     </td>
     <td style="vertical-align: top; padding-left: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
       <h1 style="margin-top: 0; color:#2E7D32;">👩‍💻 Madhumitha B</h1>
