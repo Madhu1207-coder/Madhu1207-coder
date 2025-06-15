@@ -33,7 +33,7 @@
     <td style="padding-left: 20px;">
       <img src="https://github.com/Madhu1207-coder/Madhu1207-coder/blob/main/frontend.gif" width="300" style="border-radius: 10px; margin-bottom: 20px;" />
       <br/>
-      <img src="https://github.com/Madhu1207-coder/Madhu1207-coder/blob/main/cyber.gif" width="300" style="border-radius: 10px;" />
+      <img src="https://github.com/Madhu1207-coder/Madhu1207-coder/blob/main/cyber.gif" width="300" style="border-radius: 10px; margin-bottom: 20px;" />
     </td>
   </tr>
 </table>
