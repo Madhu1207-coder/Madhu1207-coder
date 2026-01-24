@@ -8,7 +8,7 @@
     <td style="vertical-align: top; padding-left: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
       <h1 style="margin-top: 0; color:#2E7D32;">👩‍💻 Madhumitha B</h1>
       <p><strong>🎓 Aspiring AI & Data Science Engineer</strong></p>
-      <p><strong>💻 Frontend Developer | 🔐 Cybersecurity Enthusiast</strong></p>
+      <p><strong>💻 Software Developer | 🔐 Cybersecurity Enthusiast</strong></p>
       <p>📍 Chennai, Tamil Nadu, India</p>
       <p>📧 <a href="mailto:Madhumithab1207@gmail.com">Madhumithab1207@gmail.com</a></p>
       <p>🌐 <a href="https://sites.google.com/view/madhumitha-b/about" target="_blank">Portfolio</a></p>
