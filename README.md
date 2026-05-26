@@ -202,36 +202,57 @@ As a continuous learner and technology enthusiast, I enjoy experimenting with ne
 <br>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhu1207-coder&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhu1207-coder&theme=tokyonight" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhu1207-coder&theme=tokyonight" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhu1207-coder&theme=tokyonight" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhu1207-coder&theme=tokyonight&utcOffset=5.30" width="32%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhu1207-coder&theme=tokyonight" width="98%"/>
+
 </p>
 
 
 <!-- ================= DEVELOPER VIBE ================= -->
 
-<h2 align="center">⚡ Developer Vibe</h2>
+<!-- ================= DIGITAL DNA ================= -->
 
-<p align="center">
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<h2 align="center">🌌 Digital DNA</h2>
 
-</p>
+<div align="center">
 
-<p align="center">
+```python
+class Madhumitha():
 
-💻 Turning ideas into code  
-🚀 Building scalable digital experiences  
-🔐 Securing applications & systems  
-🌱 Learning something new every day  
-⚡ Innovating through creativity & technology  
+    def __init__(self):
+        self.role = "Future Software Engineer"
+        self.focus = [
+            "Full Stack Development",
+            "Cybersecurity",
+            "DevOps & Cloud",
+            "AI & Data Science"
+        ]
 
-</p>
+    def mindset(self):
+        return "Build • Secure • Innovate • Repeat"
 
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-</p>
+    def current_status(self):
+        return "Learning something new everyday 🚀"
+
+me = Madhumitha()
+```
+
+</div>
+
+<br>
 
 
+---
 
 
 
