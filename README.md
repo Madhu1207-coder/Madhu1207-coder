@@ -1,112 +1,257 @@
-<!-- Profile section in table layout -->
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Madhu1207-coder/Madhu1207-coder/blob/main/profile.jpg" alt="Madhumitha Boopathy Instagram Style" width="300" style="border-radius: 10px;" />
-    </td>
-    <td style="vertical-align: top; padding-left: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
-      <h1 style="margin-top: 0; color:#2E7D32;">👩‍💻 Madhumitha B</h1>
-      <p><strong>🎓 Aspiring AI & Data Science Engineer</strong></p>
-      <p><strong>💻 Software Developer | 🔐 Cybersecurity Enthusiast</strong></p>
-      <p>📍 Chennai, Tamil Nadu, India</p>
-      <p>📧 <a href="mailto:Madhumithab1207@gmail.com">Madhumithab1207@gmail.com</a></p>
-      <p>🌐 <a href="https://sites.google.com/view/madhumitha-b/about" target="_blank">Portfolio</a></p>
-      <p>🔗 <a href="https://www.linkedin.com/in/madhumitha-b-a545a525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn Profile</a></p>
-     
-    
-  </tr>
-</table>
 
 
+</p>
+<h1 align="center">Hi 👋, I'm Madhumitha B</h1>
 
+<h3 align="center">
+🚀 Full Stack Developer | 🔐 Cybersecurity Learner | ☁️ DevOps Enthusiast | 🤖 AI & Data Science Explorer
+</h3>
 
-<!-- About Me and GIFs in same row -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer+🚀;Full+Stack+Web+Developer+💻;Cybersecurity+Explorer+🔐;DevOps+%26+Cloud+Learner+☁️;AI+%26+Data+Science+Enthusiast+🤖" />
+</p>
 
-<table style="margin-top: 30px;">
-</table>
-<table style="margin-top: 30px;">
-  <tr>
-    <td>
-      <img src="https://github.com/Madhu1207-coder/Madhu1207-coder/blob/main/about%20me%20.jpg" alt="About Me Scroll" width="500" style="border-radius: 10px;" />
-    </td>
-    <td style="padding-left: 20px;">
-      <img src="https://github.com/Madhu1207-coder/Madhu1207-coder/blob/main/frontend.gif" width="300" style="border-radius: 10px; margin-bottom: 20px;" />
-      <br/>
-      <img src="https://github.com/Madhu1207-coder/Madhu1207-coder/blob/main/cyber.gif" width="300" style="border-radius: 10px; margin-bottom: 20px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madhu1207-coder&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<!-- ================= ABOUT SECTION ================= -->
+
+<img align="right" alt="coding" width="280" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
 
+I am a passionate and self-driven Full Stack Developer with a strong enthusiasm for building modern, scalable, and user-friendly web applications. I enjoy transforming creative ideas into real-world digital solutions through clean, efficient, and innovative code.  
 
-🏆 <span style="color:#ff9800;">GitHub Trophies</span>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Madhu1207-coder&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" /> </div>
+My interests span across Web Development, Cybersecurity, DevOps, Cloud Computing, Artificial Intelligence, Data Science, and ServiceNow Development. I am constantly exploring new technologies, frameworks, and tools to enhance my technical expertise and stay updated with the rapidly evolving tech industry.  
 
+I have a deep interest in creating secure and high-performing applications while also learning Ethical Hacking and Cybersecurity concepts to better understand system security and digital protection. Alongside development, I am actively exploring DevOps practices, cloud platforms, automation workflows, and deployment strategies to build reliable and scalable systems.  
 
+I am also passionate about AI-driven technologies and intelligent systems, with curiosity in how data, machine learning, and automation can solve real-world problems and improve user experiences.  
 
-
-
-### ✨🛠️ <span style="color:#ff5722;">Skills & Technologies</span> ✨
-
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/SQLite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Kali_Linux-%23000000?style=for-the-badge&logo=kalilinux&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Burp_Suite-%23f06b40?style=for-the-badge&logo=burp-suite&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Nmap-%230079c1?style=for-the-badge&logo=nmap&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Power_BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/MS_Excel-%231d6f42?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Udemy-%23EC5252?style=for-the-badge&logo=udemy&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Coursera-%230056D2?style=for-the-badge&logo=coursera&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/SoloLearn-%233A3A3A?style=for-the-badge&logo=sololearn&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Simplilearn-%23003399?style=for-the-badge&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></td>
-  </tr>
-</table>
-
----
+As a continuous learner and technology enthusiast, I enjoy experimenting with new projects, contributing ideas, solving challenges, and improving my problem-solving skills every day. My goal is to grow into a versatile Software Engineer capable of developing impactful, secure, and innovative solutions across multiple domains of technology.
 
 
-
-
-
+# ⚡ Tech Universe
 
 <div align="center">
-<!-- 🔥 GitHub Streak Stats -->
-  <img src="https://github.com/Madhu1207-coder/Madhu1207-coder/blob/main/github%20streak.jpg" alt="GitHub Streak" width="49%"/>
 
-  <br/><br/>
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhu1207-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhu1207-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="98%"/>
+| 🚀 Domain | 💡 Expertise |
+|------------|--------------|
+| 💻 Development | Full Stack Web Development |
+| 🌐 Frontend | Responsive UI & Modern Design |
+| ⚙️ Backend | APIs & Server-side Development |
+| 🔐 Security | Cybersecurity & Ethical Hacking |
+| ☁️ Cloud | DevOps & Cloud Technologies |
+| 🤖 AI | AI & Intelligent Applications |
+| 📊 Analytics | Data Science & Visualization |
+| 🛠️ Engineering | Software & API Development |
+| 🌍 Community | Open Source & Collaboration |
+| 🎯 Mindset | Problem Solving & Innovation |
 
 </div>
 
+# 🛠️ Tech Stack
+
+<table align="center">
+
+<tr>
+<td align="center" width="220"><b>💻 Programming Languages</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,php" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>🌐 Frontend Development</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>⚙️ Backend Development</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>☁️ DevOps & Cloud</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,jenkins,git,github" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>🔐 Cybersecurity Tools</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux" />
+
+<img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite" />
+
+<img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Metasploit-0277BD?style=for-the-badge" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>🤖 AI / ML / Data Science</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>🧰 Tools & Platforms</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github,linux" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>📚 Learning Platforms</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Simplilearn-000000?style=for-the-badge" />
+
+</td>
+</tr>
+
+</table>
+
+# 🏆 GitHub Achievements
+
+<table align="center">
+<tr>
+
+<td align="center">
+  
+### 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhu1207-coder&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Madhu1207-coder&theme=tokyonight&no-frame=true&row=2&column=3"/>
+
+</td>
+
+</tr>
+</table>
+
+<!-- ================= CURRENT MISSION ================= -->
+
+<h2 align="center">🚀 Current Mission</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,docker,aws,python,tensorflow,linux,github" />
+</p>
+
+<div align="center">
+
+🌐 Mastering modern **Full Stack Development**  
+🔐 Exploring **Cybersecurity & Ethical Hacking**  
+☁️ Learning **DevOps, Automation & Cloud Technologies**  
+🤖 Building **AI-powered intelligent applications**  
+📊 Working on **Data Analytics & Visualization Projects**  
+⚡ Contributing to **Open Source & Real-world Solutions**
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhu1207-coder&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhu1207-coder&theme=tokyonight" width="48%"/>
+</p>
+
+
+<!-- ================= DEVELOPER VIBE ================= -->
+
+<h2 align="center">⚡ Developer Vibe</h2>
+
+<p align="center">
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+💻 Turning ideas into code  
+🚀 Building scalable digital experiences  
+🔐 Securing applications & systems  
+🌱 Learning something new every day  
+⚡ Innovating through creativity & technology  
+
+</p>
+
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+</p>
+
+
+
+
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:Madhumithab1207@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/madhumitha-b-a545a525b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Madhu1207-coder">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=Build%20•%20Secure%20•%20Innovate&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
