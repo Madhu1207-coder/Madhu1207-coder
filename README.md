@@ -252,27 +252,64 @@ me = Madhumitha()
 <br>
 
 
----
 
 
+<!-- ================= CONNECT WITH ME ================= -->
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p align="center">
+<table align="center">
+<tr>
 
+<td align="center">
 <a href="mailto:Madhumithab1207@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
+<br>
+<b>Gmail</b>
+</td>
 
+<td width="35"></td>
+
+<td align="center">
 <a href="https://www.linkedin.com/in/madhumitha-b-a545a525b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
+<br>
+<b>LinkedIn</b>
+</td>
 
+<td width="35"></td>
+
+<td align="center">
 <a href="https://github.com/Madhu1207-coder">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
+<br>
+<b>GitHub</b>
+</td>
 
-</p>
+<td width="35"></td>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=Build%20•%20Secure%20•%20Innovate&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+<td align="center">
+<a href="https://sites.google.com/view/madhumitha-b/about?pli=1">
+<img src="https://img.icons8.com/fluency/96/domain.png" width="55"/>
+</a>
+<br>
+<b>Portfolio 1</b>
+</td>
+
+<td width="35"></td>
+
+<td align="center">
+<a href="https://madhumitha-portfolio-link.netlify.app/">
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="55"/>
+</a>
+<br>
+<b>Portfolio 2</b>
+</td>
+
+</tr>
+</table>
+
+---
