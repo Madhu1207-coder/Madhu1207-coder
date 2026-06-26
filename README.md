@@ -171,13 +171,7 @@ As a continuous learner and technology enthusiast, I enjoy experimenting with ne
 
 <td align="center">
 
-  ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Madhu1207-coder&theme=darkhub&no-frame=true&row=2&column=3" />
-</p>
-</tr>
-</table>
+  
 
 <!-- ================= CURRENT MISSION ================= -->
 
